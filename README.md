@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @loye22
 - 👀 I’m interested in flutter dev
-- 🌱 I’m currently learning flutter framework
+- 🌱 I’m an expert in flutter framework
 - 💞️ I’m looking to collaborate on...
 - 📫 How to reach me louye12345@gmail.com
 
